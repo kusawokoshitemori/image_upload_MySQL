@@ -1,2 +1,15 @@
 node_modules/
 
+# Ignore OneDrive folder
+OneDrive/
+
+# Ignore desktop files
+Desktop/
+
+# Ignore system files
+*.ini
+*.lnk
+*.bak
+
+# Ignore specific personal files
+path/to/specific-file.ext
