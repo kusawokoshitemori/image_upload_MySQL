@@ -1,0 +1,5 @@
+{
+  "verbose": true,
+  "watch": ["server.js", "views/"],
+  "ext": "js,handlebars"
+}
